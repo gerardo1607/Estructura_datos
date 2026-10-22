@@ -1,4 +1,5 @@
-﻿using System;
+//invertir los digitos en numero
+using System;
 
 class Program
 {
