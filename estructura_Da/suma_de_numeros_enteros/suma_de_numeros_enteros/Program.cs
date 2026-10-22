@@ -1,4 +1,5 @@
-﻿using System;
+// se suman numeros enteros
+using System;
 
 class Program
 {
