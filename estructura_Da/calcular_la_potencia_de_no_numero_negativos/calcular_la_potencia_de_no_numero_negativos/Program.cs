@@ -1,4 +1,5 @@
-﻿using System;
+//calcular la potencia 
+using System;
 
 class Program
 {
