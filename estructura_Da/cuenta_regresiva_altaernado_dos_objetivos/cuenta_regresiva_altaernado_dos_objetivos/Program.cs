@@ -1,4 +1,5 @@
-﻿using System;
+//un reguistro alternativo de dos objetos
+using System;
 class Program
 {
     static void Main()
