@@ -1,4 +1,5 @@
-﻿using System;
+// el factorial 
+using System;
 
 class Program
 {
