@@ -1,4 +1,5 @@
-﻿using System;
+//se suman los datos 
+using System;
 
 class Program
 {
