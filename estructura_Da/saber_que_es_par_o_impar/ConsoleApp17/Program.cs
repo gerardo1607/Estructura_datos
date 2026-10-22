@@ -1,4 +1,5 @@
-﻿using System;
+//identificar o saber cual es par e impar
+using System;
 
 class Program
 {
