@@ -1,4 +1,5 @@
-﻿using System;
+//sacar el fiboniar numeros neutrales
+using System;
 
 class Program
 {
