@@ -1,4 +1,5 @@
-﻿using System;
+//la suma de  un numero del 1 al n 
+using System;
 
 class Program
 {
