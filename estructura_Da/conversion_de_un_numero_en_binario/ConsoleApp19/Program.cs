@@ -1,4 +1,5 @@
-﻿using System;
+//convertir numero en binario
+using System;
 
 class Program
 {
